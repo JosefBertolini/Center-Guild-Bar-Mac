@@ -2,6 +2,10 @@
   --HSL-server-alignment: center;
 }
 
+html.platform-osx #app-mount .guilds-2JjMmN {
+  left: 0;
+}
+
 #app-mount nav.wrapper-1_HaEi.guilds-2JjMmN {
   height: 100vw !important;
   padding-bottom: var(--mac-os-left-margin);
